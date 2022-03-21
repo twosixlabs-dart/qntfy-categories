@@ -1,0 +1,182 @@
+[
+  {
+    "License": "BSD License",
+    "Name": "Click",
+    "Version": "7.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "Flask",
+    "Version": "1.1.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "Jinja2",
+    "Version": "2.10.3"
+  },
+  {
+    "License": "BSD License",
+    "Name": "MarkupSafe",
+    "Version": "1.1.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "Werkzeug",
+    "Version": "0.16.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "blis",
+    "Version": "0.4.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "catalogue",
+    "Version": "1.0.0"
+  },
+  {
+    "License": "Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "certifi",
+    "Version": "2019.9.11"
+  },
+  {
+    "License": "GNU Library or Lesser General Public License (LGPL)",
+    "Name": "chardet",
+    "Version": "4.0.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "cymem",
+    "Version": "2.0.5"
+  },
+  {
+    "License": "MIT",
+    "Name": "en-core-web-lg",
+    "Version": "2.2.5"
+  },
+  {
+    "License": "MIT License",
+    "Name": "gunicorn",
+    "Version": "20.0.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "idna",
+    "Version": "2.10"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "importlib-metadata",
+    "Version": "3.4.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "itsdangerous",
+    "Version": "1.1.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "joblib",
+    "Version": "0.14.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "murmurhash",
+    "Version": "1.0.5"
+  },
+  {
+    "License": "BSD",
+    "Name": "numpy",
+    "Version": "1.17.3"
+  },
+  {
+    "License": "BSD",
+    "Name": "pandas",
+    "Version": "0.25.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pickleshare",
+    "Version": "0.7.5"
+  },
+  {
+    "License": "BSD License",
+    "Name": "plac",
+    "Version": "1.1.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "preshed",
+    "Version": "3.0.5"
+  },
+  {
+    "License": "BSD License, Apache Software License",
+    "Name": "python-dateutil",
+    "Version": "2.8.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pytz",
+    "Version": "2019.3"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "requests",
+    "Version": "2.25.1"
+  },
+  {
+    "License": "new BSD",
+    "Name": "scikit-learn",
+    "Version": "0.22.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "scipy",
+    "Version": "1.3.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "six",
+    "Version": "1.12.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "spacy",
+    "Version": "2.2.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "srsly",
+    "Version": "1.0.5"
+  },
+  {
+    "License": "MIT License",
+    "Name": "thinc",
+    "Version": "7.3.1"
+  },
+  {
+    "License": "MIT License, Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "tqdm",
+    "Version": "4.56.0"
+  },
+  {
+    "License": "Python Software Foundation License",
+    "Name": "typing-extensions",
+    "Version": "3.7.4.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "urllib3",
+    "Version": "1.26.3"
+  },
+  {
+    "License": "MIT",
+    "Name": "wasabi",
+    "Version": "0.8.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "zipp",
+    "Version": "3.4.0"
+  }
+]
