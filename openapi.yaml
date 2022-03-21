@@ -1,0 +1,49 @@
+openapi: 3.0.2
+info:
+  title: Qntfy Categorization API
+  description: API for categorization
+  version: 0.0.1
+paths:
+  /api/v1/health:
+    get:
+      summary: Returns the health of the service.
+      responses:
+        200:
+          description: The health of the service.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Health"
+
+  /api/v1/cdr/predict:
+    post:
+      summary: Returns an input CDR document with added facets annotation.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CdrDocument'
+      responses:
+        200:
+          description: "CDR document with added facets annotation"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CdrDocument"
+
+components:
+  schemas:
+    CdrDocument:
+      $ref: "https://raw.githubusercontent.com/WorldModelers/Document-Schema/master/cdr-schema/cdr-v3.json"
+    Health:
+      type: "object"
+      required:
+        - "status"
+      properties:
+        status:
+          type: "string"
+          example: "healthy"
+          description: "Status of the server: `healthy` if OK, error message if not"
+      xml:
+        name: "Health"
