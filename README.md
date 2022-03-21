@@ -11,8 +11,9 @@ with scores higher to 1 reflecting a higher probability of the
 document being classified into that category. Shorter documents will
 tend to have lower scores, so if and when the app is modified to
 export class predictions rather than probabilities, it will likely
-make sense to lower the threshold (it defaults to .5).
+make sense to lower the threshold (it defaults to .5).  
 
+[![build and publish](https://github.com/twosixlabs-dart/qntfy-ner/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/twosixlabs-dart/qntfy-ner/actions/workflows/build-and-publish.yml)
 
 ## World Modelers
 
